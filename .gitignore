@@ -1,3 +1,7 @@
+#FilePath  constants are machine dependent, so adding to gitignore
+
+activations/data_utils/io/storage_constants.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
